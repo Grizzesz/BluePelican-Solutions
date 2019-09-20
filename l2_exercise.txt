@@ -1,0 +1,27 @@
+1.  Strings - text
+    Integers - self explanatory
+    Doubles - rational numbers
+
+2.  A String
+
+3.  A double
+        
+4.  An integer
+        
+5.  double p = 1.921E-16;
+
+6.  int i = 407;
+
+7.  String my_name = "John Smith";
+
+8.  int count;
+
+9.  double bankBalance = 136.05;
+
+10. scooter13, doubled
+
+11. C) or E)
+        
+12. double dist = 1003;  // legal
+    int alt = 1493.86;   // illegal (cannot store decimal)
+    int num = 1_2_3;     // legal
