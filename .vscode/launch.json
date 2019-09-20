@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArithmeticAssignment",
+            "request": "launch",
+            "mainClass": "ArithmeticAssignment"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - l4",
             "request": "launch",
             "mainClass": "l4"
