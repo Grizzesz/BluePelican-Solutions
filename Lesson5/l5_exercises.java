@@ -1,6 +1,19 @@
 class Testr {
     public static void main(String[] args) {
 
+        question1();
+        question2();
+        question3();
+        question4();
+        question5();
+        question6();
+        question7();
+        question8();
+        question9();
+        question10();
+        question11();
+        questions12_15();
+        
         
 
     }
@@ -36,7 +49,7 @@ class Testr {
 
         // Question 4:
 
-        int cnt = 27.2;
+        int cnt = (int)27.2;
         System.out.println(cnt);
 
     }
@@ -55,7 +68,7 @@ class Testr {
 
         // Question 6:
 
-        fouble f4 = 22;
+        double f4 = 22;
         
         // legal
 
